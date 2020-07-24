@@ -6,7 +6,7 @@ To use this locally straight from this source you must install https://mods.curs
 
 Current Build Status
 ===================================
-[![Build Status](https://travis-ci.org/TimothyLuke/GnomeSequenced-Enhanced.svg?branch=master)](https://travis-ci.org/TimothyLuke/GnomeSequenced-Enhanced) 
+[![Build Status](https://travis-ci.org/gixxpunk/GnomeSequenced-Enhanced.svg?branch=master)](https://travis-ci.org/gixxpunk/GnomeSequenced-Enhanced) 
 
 At the moment this means that there are no lua errors.  It doesnt mean it works ... yet
 
